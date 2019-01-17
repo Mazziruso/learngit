@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-opopda
-=======
+opop
 ssllss
 now it is brance
->>>>>>> serverBranch1
