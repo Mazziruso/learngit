@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 *.vcxproj
 *.filters
 *.user
 /Debug
+=======
+*.[oa]
+*~
+>>>>>>> 362f8e7922749a5e296e947763da68cba6952ed6
